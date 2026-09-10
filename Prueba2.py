@@ -1,5 +1,5 @@
 print ("Hola mundo")
 print ("Bienvenidos")
 print ("Juan David Diaz")
-print ("grado 10-6")
+print ("grado 106")
 
